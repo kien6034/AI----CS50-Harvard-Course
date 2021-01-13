@@ -13,4 +13,6 @@ Có 7 phần chính, mỗi phần chứa video hướng dẫn và link project.
 5. Neural Network
 6. Learning
 
-Ấn vào link project để xem 
+Ấn vào link project để xem từng yêu cầu và hướng dẫn cho từng bài toán.
+VD: Project 0 - Search
+https://cs50.harvard.edu/ai/2020/projects/0/
