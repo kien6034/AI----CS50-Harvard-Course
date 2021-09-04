@@ -11,7 +11,8 @@ Có 7 phần chính, mỗi phần chứa video hướng dẫn và link project.
 3. Optimization 
 4. Learning
 5. Neural Network
-6. Learning
+6. Language
+
 
 Ấn vào link project để xem từng yêu cầu và hướng dẫn cho từng bài toán.
 VD: Project 0 - Search
